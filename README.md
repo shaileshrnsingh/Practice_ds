@@ -1,2 +1,2 @@
-# ds_Shailesh_Singh
+# Practice
 Data Science Assignment – Trader Behavior Insights
